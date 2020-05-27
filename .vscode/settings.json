@@ -1,0 +1,5 @@
+{
+  "rust.all_targets": false,
+  "rust.sysroot": "/Users/cristobal/Playground/rs/os/target/sysroot",
+  "rust.rustflags": "-L dependency=/Users/cristobal/Playground/rs/os/target/sysroot/lib/rustlib/x86_64-myos/lib"
+}
